@@ -1,0 +1,3 @@
+# Optional OpenMMLab stack. Install matching mmcv binary wheels separately.
+mmengine==0.10.7
+mmpose==1.3.2

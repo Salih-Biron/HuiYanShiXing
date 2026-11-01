@@ -1,0 +1,16 @@
+[
+  {
+    "name": "YOLOv8s",
+    "source_relative_to_original_project": "outputs/yolo_new_models/camera_fall_450_yolov8s/weights/best.pt",
+    "size_bytes": 22643747,
+    "sha256": "d941e18abfd6e6ae8d8574e4db4abfa8639543c85cf7ce552d7ebaa5e44c6d91",
+    "included_in_git": false
+  },
+  {
+    "name": "RTMO",
+    "source_relative_to_original_project": "weights/rtmo/best.pth",
+    "size_bytes": 181783781,
+    "sha256": "2df853a4f9c64ceaccc85291068cca0848bc59d1fd9153ae564a3fc70d762add",
+    "included_in_git": false
+  }
+]

@@ -1,0 +1,33 @@
+# Local environments and credentials
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+node_modules/
+dist/
+.vscode/
+.idea/
+.codebuddy/
+# Runtime assets are distributed separately
+weights/
+datasets/
+outputs/
+uploads/
+runs/
+yolo_events/
+pose_events/
+*.pt
+*.pth
+*.onnx
+*.engine
+*.log
+*.sqlite*
+*.db
+*.zip
+*.tar
+*.tar.gz
+*.bak*

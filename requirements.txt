@@ -1,0 +1,8 @@
+# Versions recorded from the existing huiyan_cv runtime.
+# Install a CUDA-compatible PyTorch build separately (see README).
+fastapi==0.110.0
+uvicorn==0.27.1
+python-multipart==0.0.9
+numpy==1.26.4
+opencv-python==4.8.1.78
+ultralytics==8.4.41
